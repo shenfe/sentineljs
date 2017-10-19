@@ -3,7 +3,7 @@ import uglify from 'rollup-plugin-uglify';
 
 export default {
     input: 'src/sentinel.js',
-    name: 'Sentinel',
+    name: 'sentinel',
     // sourcemap: true,
     output: {
         format: 'umd',
